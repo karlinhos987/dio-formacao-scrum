@@ -1,0 +1,25 @@
+Resumo do artigo “Scrum Case: Como o FBI Desenvolveu em 1 ano um projeto que estava atrasado há 10 anos e com economia de 90% do investimento?”
+	
+Esse resumo crítico tem como objetivo analisar um caso real da utilização do framework Scrum para desenvolvimento de projeto.
+
+Em 2003 o FBI percebeu que gastava muito tempo com processos totalmente manuais e isso gerava fortes impactos na resolução de casos, já que a informação não era de fácil acesso para todos os envolvidos,
+sendo assim decidiu substituir buscas físicas por buscas integradas e online em uma plataforma. O projeto que traria a automação desse processo foi chamado de Sentinel.
+
+O desenvolvimento do Sentinel iniciou em 2006, após a contratação da empresa de segurança Lockheed Martin utilizando a metodologia de “Cascata”, 
+onde uma etapa precisa ser concluída totalmente antes de iniciar outra. A estimativa do custo do projeto foi de US$451 milhões para a implementação até dezembro de 2009, 
+entretanto em agosto de 2010 o valor gasto era de US$405 milhões e ainda faltavam duas das quatro fases do projetos, o atraso e mais gastos seriam inevitáveis.
+
+Após o cancelamento do contrato com a Lockheed, o novo diretor de tecnologia assumiu o desenvolvimento do Sentinel, diminuindo a equipe de 400 para 45 pessoas, 
+e prometeu entregá-lo dentro de 12 meses e utilizando apenas o orçamento remanescente, usando o Scrum. 
+
+O Scrum foi utilizado para resolver o problema anteriormente citado, a abordagem foi um sucesso e conseguiu solucionar a situação orçamentária e os atrasos resultantes da metodologia em Cascata. 
+Um ano após o recomeço do projeto (novembro de 2011), todas as fases foram concluídas e iniciou-se a implementação. O projeto inovou a forma como o FBI trabalhava e compartilhava essas informações, 
+tornando esse processo mais ágil e mais resolutivo, agregando de fato valor.
+
+Podemos ver que o Scrum trouxe impactos positivos e gostaria de destacar, além do atraso e do orçamento altíssimo, a redução de equipe de 400 para 45 pessoas. 
+Ambos os fatores podem gerar descrença das pessoas e levantar o questionamento “Como é possível diminuir tantos recursos e mesmo assim agregar tanto valor?”, 
+bom a resposta está nos pilares e valores do framework. A transparência, inspeção e adaptação fornecem um desenvolvimento sustentável onde todos estão cientes do objetivo final e seu progresso, 
+há um olhar constante no que temos e no que podemos fazer para melhorar, além de feedbacks que permitem que os objetivos sejam flexíveis e alinhados conforme necessidade.
+
+Falando dos valores, eles trazem à tona características que são fundamentais em qualquer equipe que esteja empenhada em algo. Adotando o compromisso, foco, abertura,
+respeito e coragem podemos superar grandes desafios e trazer resultados antes vistos como impossíveis, mas que o Scrum torna possível. 
